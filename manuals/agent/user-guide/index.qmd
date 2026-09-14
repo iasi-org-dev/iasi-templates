@@ -1,0 +1,7 @@
+# IASI Agent — Guía de usuario
+
+Esta guía explica cómo utilizar `iasi-agent` dentro de un proyecto IASI y cómo se integra en los flujos de trabajo.
+
+Este manual forma parte de `iasi-docs`, el multiproyecto de documentación de los componentes operativos de IASI.
+
+El contenido se desarrollará de forma incremental a partir de las fuentes canónicas de `iasi-agent` y de las decisiones de ingeniería aplicables.

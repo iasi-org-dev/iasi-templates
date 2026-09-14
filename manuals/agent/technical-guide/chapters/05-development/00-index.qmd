@@ -1,0 +1,5 @@
+# Desarrollo
+
+Convenciones y criterios para evolucionar el componente.
+
+> Contenido inicial pendiente de desarrollo.

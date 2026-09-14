@@ -1,0 +1,7 @@
+# IASI Agent — Guía técnica
+
+Esta guía documenta el diseño técnico de `iasi-agent`, sus límites, contratos y mecanismos de integración.
+
+Este manual forma parte de `iasi-docs`, el multiproyecto de documentación de los componentes operativos de IASI.
+
+El contenido se desarrollará de forma incremental a partir de las fuentes canónicas de `iasi-agent` y de las decisiones de ingeniería aplicables.

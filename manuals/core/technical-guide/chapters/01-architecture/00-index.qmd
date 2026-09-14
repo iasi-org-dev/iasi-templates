@@ -1,0 +1,5 @@
+# Arquitectura
+
+Responsabilidades, límites y relaciones internas.
+
+> Contenido inicial pendiente de desarrollo.

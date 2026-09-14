@@ -1,0 +1,7 @@
+# IASI Core — Guía de usuario
+
+Esta guía explica cómo utilizar los artefactos proporcionados por `iasi-core` desde la perspectiva de quien trabaja con IASI.
+
+Este manual forma parte de `iasi-docs`, el multiproyecto de documentación de los componentes operativos de IASI.
+
+El contenido se desarrollará de forma incremental a partir de las fuentes canónicas de `iasi-core` y de las decisiones de ingeniería aplicables.

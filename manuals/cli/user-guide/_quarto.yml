@@ -1,0 +1,16 @@
+project:
+  type: book
+
+profile:
+  group:
+    - [html, pdf]
+
+metadata-files:
+  - _book-structure.yml
+
+lang: es
+
+book:
+  title: "IASI CLI — Guía de usuario"
+  subtitle: "Uso de la interfaz de línea de comandos de IASI."
+  author: "IASI"

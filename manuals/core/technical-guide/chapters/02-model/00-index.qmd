@@ -1,0 +1,5 @@
+# Modelo interno
+
+Entidades, estructuras y contratos internos relevantes.
+
+> Contenido inicial pendiente de desarrollo.

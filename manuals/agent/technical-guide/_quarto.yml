@@ -1,0 +1,16 @@
+project:
+  type: book
+
+profile:
+  group:
+    - [html, pdf]
+
+metadata-files:
+  - _book-structure.yml
+
+lang: es
+
+book:
+  title: "IASI Agent — Guía técnica"
+  subtitle: "Arquitectura, ejecución e integración del agente de IASI."
+  author: "IASI"

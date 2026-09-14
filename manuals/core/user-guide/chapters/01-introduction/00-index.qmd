@@ -1,0 +1,5 @@
+# Introducción
+
+Propósito, alcance y visión general del componente.
+
+> Contenido inicial pendiente de desarrollo.

@@ -1,0 +1,5 @@
+# Procesamiento
+
+Flujos internos y etapas de procesamiento.
+
+> Contenido inicial pendiente de desarrollo.

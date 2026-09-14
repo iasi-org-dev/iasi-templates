@@ -1,0 +1,16 @@
+project:
+  type: book
+
+profile:
+  group:
+    - [html, pdf]
+
+metadata-files:
+  - _book-structure.yml
+
+lang: es
+
+book:
+  title: "IASI Core — Guía de usuario"
+  subtitle: "Uso de las definiciones, reglas, configuración, plantillas y mecanismos compartidos de IASI."
+  author: "IASI"

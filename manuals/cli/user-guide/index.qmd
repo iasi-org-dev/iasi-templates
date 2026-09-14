@@ -1,0 +1,7 @@
+# IASI CLI — Guía de usuario
+
+Esta guía explica cómo instalar y utilizar `iasi-cli`, crear o inicializar proyectos y ejecutar sus operaciones públicas.
+
+Este manual forma parte de `iasi-docs`, el multiproyecto de documentación de los componentes operativos de IASI.
+
+El contenido se desarrollará de forma incremental a partir de las fuentes canónicas de `iasi-cli` y de las decisiones de ingeniería aplicables.

@@ -1,0 +1,5 @@
+# Integración
+
+Relaciones con otros componentes y puntos de integración.
+
+> Contenido inicial pendiente de desarrollo.

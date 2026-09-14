@@ -1,0 +1,5 @@
+# Uso
+
+Flujos de uso y operaciones habituales.
+
+> Contenido inicial pendiente de desarrollo.

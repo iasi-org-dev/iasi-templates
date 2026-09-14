@@ -1,0 +1,5 @@
+# Verificación
+
+Pruebas, validaciones y criterios de aceptación.
+
+> Contenido inicial pendiente de desarrollo.

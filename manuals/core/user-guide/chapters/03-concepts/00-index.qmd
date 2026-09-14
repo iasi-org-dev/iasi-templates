@@ -1,0 +1,5 @@
+# Conceptos
+
+Conceptos necesarios para utilizar el componente correctamente.
+
+> Contenido inicial pendiente de desarrollo.

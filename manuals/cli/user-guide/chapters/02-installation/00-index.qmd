@@ -1,0 +1,5 @@
+# Instalación
+
+Requisitos, instalación y primera comprobación.
+
+> Contenido inicial pendiente de desarrollo.

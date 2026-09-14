@@ -1,0 +1,7 @@
+# IASI Core — Guía técnica
+
+Esta guía documenta la estructura técnica de `iasi-core`, sus contratos y las decisiones relevantes para su mantenimiento.
+
+Este manual forma parte de `iasi-docs`, el multiproyecto de documentación de los componentes operativos de IASI.
+
+El contenido se desarrollará de forma incremental a partir de las fuentes canónicas de `iasi-core` y de las decisiones de ingeniería aplicables.

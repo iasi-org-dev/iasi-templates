@@ -1,0 +1,7 @@
+# IASI CLI — Guía técnica
+
+Esta guía documenta el diseño y la implementación interna de `iasi-cli` para quienes la desarrollan y mantienen.
+
+Este manual forma parte de `iasi-docs`, el multiproyecto de documentación de los componentes operativos de IASI.
+
+El contenido se desarrollará de forma incremental a partir de las fuentes canónicas de `iasi-cli` y de las decisiones de ingeniería aplicables.

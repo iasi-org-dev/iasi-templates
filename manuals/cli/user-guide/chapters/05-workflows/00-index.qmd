@@ -1,0 +1,5 @@
+# Flujos de trabajo
+
+Uso del componente dentro del proceso real de ingeniería.
+
+> Contenido inicial pendiente de desarrollo.

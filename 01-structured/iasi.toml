@@ -1,0 +1,6 @@
+type = "quarto"
+
+[publication]
+strategy = "structured"
+content-dir = "chapters"
+numbered = true
